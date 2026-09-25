@@ -1,1 +1,1 @@
-[Paper PDF](./assets/paper.pdf)
+[Paper PDF](./assets/Physis-Lang_arxiv.pdf)
